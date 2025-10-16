@@ -1,0 +1,22 @@
+{
+  "name": "HR App",
+  "short_name": "HRApp",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f172a",
+  "scope": "/",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/ArviusLogo.ico.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/ArviusLogo.ico.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
