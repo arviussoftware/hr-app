@@ -5,7 +5,6 @@ FROM node:18-alpine
 WORKDIR /app
 
 # Set environment variables
-ENV NODE_ENV=production
 ENV NEXT_PUBLIC_API_BASE_URL=https://hr-arvius-400422115038.us-east1.run.app/
 
 
